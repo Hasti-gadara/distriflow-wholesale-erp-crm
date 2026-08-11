@@ -1,0 +1,6 @@
+{
+  "name": "DistriFlow Wholesale ERP & CRM",
+  "description": "Full-stack ERP and CRM system for wholesale distribution with role-based access, customer CRM, stock inventory tracking, sales challans, automated stock deduction, invoice PDF export, and REST API documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
