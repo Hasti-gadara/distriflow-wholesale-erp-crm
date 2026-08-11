@@ -74,3 +74,10 @@ npm run dev
 http://localhost:3000
 
 ```
+## 🎥 Project Demo Video
+
+[Watch Project Demo Video](https://drive.google.com/drive/folders/1aEW8BLrs0Y1LP_QtkeJp9v15phehh0Ng?usp=sharing)
+
+## 📄 Project Documentation
+
+[View Project Documentation](https://drive.google.com/drive/folders/1aEW8BLrs0Y1LP_QtkeJp9v15phehh0Ng?usp=sharing)
